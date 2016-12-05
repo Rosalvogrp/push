@@ -10,10 +10,6 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
-    <gap:plugin name="de.appplant.cordova.plugin.background-mode" version="0.6.3" />
-    <plugin name="de.appplant.cordova.plugin.background-mode" source="pgb" spec="0.6.4" />
-    <gap:plugin name="de.appplant.cordova.plugin.local-notification" />
-    <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.8.4" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
